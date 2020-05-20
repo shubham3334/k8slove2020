@@ -1,0 +1,2 @@
+docker build -t shubhpyimg1:pycodev1 -f .\dockerfile.txt .
+docker run -it --rm shubhpyimg1:pycodev1 
